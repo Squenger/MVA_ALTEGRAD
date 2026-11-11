@@ -1,0 +1,40 @@
+{
+  "os":  "Windows-10-10.0.26200-SP0",
+  "python":  "CPython 3.11.7",
+  "startedAt":  "2026-10-18T13:13:19.791814Z",
+  "program":  "c:\\Users\\aimin\\Documents\\ENS MVA\\altgrad\\TP3\\2026_APM_53674_EP_Lab3.ipynb",
+  "codePath":  "c:\\Users\\aimin\\Documents\\ENS MVA\\altgrad\\TP3\\2026_APM_53674_EP_Lab3.ipynb",
+  "codePathLocal":  "2026_APM_53674_EP_Lab3.ipynb",
+  "email":  "aimine28@gmail.com",
+  "root":  "c:\\Users\\aimin\\Documents\\ENS MVA\\altgrad\\TP3",
+  "host":  "PC-Aimine",
+  "executable":  "c:\\Users\\aimin\\anaconda3\\python.exe",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA GeForce RTX 4060",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "998039875584",
+      "used":  "851949850624"
+    }
+  },
+  "memory":  {
+    "total":  "17099173888"
+  },
+  "cpu":  {
+    "model":  "AMD Ryzen 5 5600 6-Core Processor"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4060",
+      "memoryTotal":  "8585740288",
+      "cudaCores":  3072,
+      "architecture":  "Ada",
+      "uuid":  "GPU-cd8162ef-5dfe-3919-08c7-7c5742677360",
+      "pciBusId":  "00000000:05:00.0"
+    }
+  ],
+  "cudaVersion":  "13.3",
+  "writerId":  "01a14f25-30bb-737c-8697-a43efb57e5aa"
+}
